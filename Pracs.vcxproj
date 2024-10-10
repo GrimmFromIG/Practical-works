@@ -24,6 +24,7 @@
     <ProjectGuid>{4386ea77-0b58-475f-837a-59665f0a00c5}</ProjectGuid>
     <RootNamespace>Pracs</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1.4</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
