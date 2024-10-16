@@ -18,7 +18,7 @@ int main()
 	//Завдання 1
 
 	int Num1_1;
-	std::cout << "Введіть число: " << std::endl;
+	std::cout << "Enter first number: " << std::endl;
 	std::cin >> Num1_1;
 	int Size1 = sizeof(Num1_1) * 8;
 	int CounterOf1 = 0, CounterOf0 = 0;
