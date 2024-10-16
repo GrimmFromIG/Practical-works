@@ -3,7 +3,7 @@
 * Student name : Bohdan Petroshchuk
 * Student group : 121
 * Variant : 12
-* Lab 1.5
+* Prac 1.4
 */
 
 #include <Windows.h>
