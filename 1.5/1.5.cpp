@@ -26,7 +26,7 @@ int main()
 	{
 		if (A1[i] == P1)
 		{
-			std::cout << "Index of first appearence of P value in array is : " << i << std::endl;
+			std::cout << "Index of first appearence of P value in array is: " << i << std::endl;
 		}
 		else if (i == n1 - 1)
 		{
